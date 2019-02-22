@@ -5,6 +5,8 @@
  */
 package lab2.polymorphism;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Tanapattara Wongkhamchan <tanapattara@kku.ac.th>
@@ -20,15 +22,12 @@ public class LAB2Polymorphism {
         Animal dog = new Dog();
         Animal bird = new Bird();
         
+        Animal[] arr_Animal = new Animal[10];
+        ArrayList<Animal> list_Animal = new ArrayList<Animal>();
+        
         animal.Move();
         dog.Move();
         bird.Move();
-        
-        Dog donky = new Dog();
-        Animal lucky = new Dog();
-        
-        donky.Move();
-        lucky.Move();
     }
     
 }
