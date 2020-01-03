@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LAB2-Abstraction.iml" filepath="$PROJECT_DIR$/LAB2-Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB2-ClassAbstraction.iml" filepath="$PROJECT_DIR$/LAB2-ClassAbstraction.iml" />
     </modules>
   </component>
 </project>
