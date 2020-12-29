@@ -19,3 +19,6 @@
 /LAB4_StudentApp/nbproject/private/
 /LAB4_StudentApp/build/
 /LAB4_StudentApp/dist/
+out/
+*.iml
+/LAB1-Class/out/
