@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LAB1-Class/LAB1-Class.iml" filepath="$PROJECT_DIR$/LAB1-Class/LAB1-Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB1-ClassAbstraction/LAB1-ClassAbstraction.iml" filepath="$PROJECT_DIR$/LAB1-ClassAbstraction/LAB1-ClassAbstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB1-ObjectArray/LAB1-ObjectArray.iml" filepath="$PROJECT_DIR$/LAB1-ObjectArray/LAB1-ObjectArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB2-Encapsulation/LAB2-Encapsulation.iml" filepath="$PROJECT_DIR$/LAB2-Encapsulation/LAB2-Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB3-Inheritance/LAB3-Inheritance.iml" filepath="$PROJECT_DIR$/LAB3-Inheritance/LAB3-Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB4-Interface/LAB4-Interface.iml" filepath="$PROJECT_DIR$/LAB4-Interface/LAB4-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB5-Polymorphism/LAB5-Polymorphism.iml" filepath="$PROJECT_DIR$/LAB5-Polymorphism/LAB5-Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB6-JAVAForm/LAB6-JAVAForm.iml" filepath="$PROJECT_DIR$/LAB6-JAVAForm/LAB6-JAVAForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB6_ClassLibraries/LAB6_ClassLibraries.iml" filepath="$PROJECT_DIR$/LAB6_ClassLibraries/LAB6_ClassLibraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB7-Pokemon/LAB7-Pokemon.iml" filepath="$PROJECT_DIR$/LAB7-Pokemon/LAB7-Pokemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB7_StudentApp/LAB7_StudentApp.iml" filepath="$PROJECT_DIR$/LAB7_StudentApp/LAB7_StudentApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop-lab.iml" filepath="$PROJECT_DIR$/.idea/oop-lab.iml" />
+    </modules>
+  </component>
+</project>
