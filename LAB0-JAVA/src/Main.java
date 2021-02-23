@@ -2,16 +2,24 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world");
 
+    public static void main(String[] args) {
+        int num = max(10,20);
+        System.out.println(num);
+    }
+
+    public static int max(int a, int b){
+        return a > b ? a : b;
+    }
+
+    public void sampleJAVA(){
         // Create variable
         int age = 19;
         long salary = 150000;
         float interestRate = 0.7f;  // 32-bit precision IEEE 754 floating point
         double weight = 62.2;       // 64-bit precision IEEE 754 floating point
         Character grade = 'A';
-        String name = "Micky Mouse";
+        String name = "Mickey Mouse";
         boolean isStudent = true;
 
         // Convert datatype

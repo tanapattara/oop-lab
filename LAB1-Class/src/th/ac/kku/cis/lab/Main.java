@@ -1,8 +1,19 @@
 package th.ac.kku.cis.lab;
 
+import java.awt.*;
+
 public class Main {
 
     public static void main(String[] args) {
+
+        Car car = new Car();
+        car.color = Color.red;
+        car.model = "Sport";
+        car.Type = "A";
+        car.price = 10000000;
+
+        System.out.println("Car model " + car.model + " type  " + car.Type);
+
 
         Student student = new Student();
         student.name = "Mickey Mouse";
