@@ -22,3 +22,11 @@
 out/
 *.iml
 /LAB1-Class/out/
+/LAB6-GUI-TemperatureConverter/.gradle/
+/LAB6-GUI-TemperatureConverter/build/
+/TemperatureConverter/.gradle/
+/TemperatureConverter/build/
+/LAB6-TemperatureConverter/.gradle/
+/LAB6-TemperatureConverter/build/
+/LAB6-GUI-CustomDialog/.gradle/
+/LAB6-GUI-CustomDialog/build/
