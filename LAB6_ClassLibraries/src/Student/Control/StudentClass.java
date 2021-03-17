@@ -6,7 +6,7 @@
 package Student.Control;
 
 import Student.Model.Student;
-import Student.StudentFrame;
+import Student.*;
 import java.util.ArrayList;
 
 /**
@@ -30,8 +30,12 @@ public class StudentClass {
         students.add(s);
     }
     public void displaydata() {
-        StudentFrame sf = new StudentFrame();
-        sf.showStudent(students.get(0));
+        //StudentFrame sf = new StudentFrame();
+        //sf.showStudent(students.get(0));
+        //sf.setVisible(true);
+        
+        StudentsFrame sf = new StudentsFrame();
+        sf.setData(this.students);
         sf.setVisible(true);
     }
 }
